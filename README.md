@@ -16,16 +16,16 @@ git clone https://github.com/swatiagrawal264/AI-Research-Agent.git
 Python 3.6 or higher using `venv` or `conda`. Using `venv`:
 
 ``` bash
-cd ai-fundamentals
+cd AI-Research-Agent
 python3 -m venv env
 source env/bin/activate
 ```
 
 Using `conda`:
 ``` bash
-cd ai-fundamentals
-conda create -n ai-fundamentals python=3.10
-conda activate ai-fundamentals
+cd AI-Research-Agent
+conda create -n AI-Research-Agent python=3.10
+conda activate AI-Research-Agent
 ```
 
 #### 3. Install the required dependencies
